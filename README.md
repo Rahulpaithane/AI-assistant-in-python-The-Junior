@@ -1,7 +1,7 @@
 # AI-assistant-in-python-The-Junior
 Developed By Rahul Paithane !.AI assistant in python [The Junior]. With Some Security Features Such As AI Name Verification First., this is the demo of our project , if have added many new features to it like password verification,find loaction,send mail,write note,etc.
 
-##say "Hey Junior"
+## say "Hey Junior"
 
 to start the assistant,virtual assistant will start
 
@@ -10,7 +10,7 @@ to stop the virtual assistant say "stop " ,
 it will not terminate the program it will keep running but there will be no response from the assistant , whenever you say "Hey Junior" ,it will start again 
 
 
-##Demo Version
+## Demo Version
 some queries:
 
 say " Who Invented You"
@@ -27,11 +27,11 @@ and many more.
 
 
 ************************************************
-##say "Hey Junior"
+## say "Hey Junior"
 
 to start the assistant 
 
-it will ask the password ##say "Unquie Is the password"
+it will ask the password **say "Unquie Is the password"**
 
 and virtual assistant will start
 
@@ -39,7 +39,7 @@ to stop the virtual assistant say "stop " , it will not terminate the program it
 
 ******************************************************
 
-##Full Version  [ Contact Us For Full Version ]
+## Full Version  [ Contact Us For Full Version ]
 
 some queries:
 
