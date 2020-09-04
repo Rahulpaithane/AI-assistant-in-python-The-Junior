@@ -1,5 +1,5 @@
 # AI-assistant-in-python-The-Junior
-Developed By Rahul Paithane !.AI assistant in python [The Junior]. With Some Security Features Such As AI Name Verification First., this is the demo of our project , if have added many new features to it like password verification,find loaction,send mail,write note,etc.
+Developed By Rahul Paithane !.AI assistant in python [The Junior]. With Some Security Features Such As AI Name Verification First., this is the demo of our project ,we have added many new features to it like password verification,find loaction,send mail,write note,etc.
 
 ## say "Hey Junior"
 
