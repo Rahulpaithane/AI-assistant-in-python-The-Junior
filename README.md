@@ -34,7 +34,7 @@ and many more.
 
 to start the assistant 
 
-it will ask the password **say "Unquie Is the password"**
+it will ask the password **say "Unquie Is the password"** [ Only In Full Version ]
 
 and virtual assistant will start
 
